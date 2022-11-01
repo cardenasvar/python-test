@@ -127,6 +127,7 @@ lista = [camel, lion, deer, goose, bat, rabbit]
 # lista[3] = goose
 # lista[4] = bat
 # lista[5] = rabbit
+# lista[6] = apple
 habitat = int(input("Which habitat # do you need? > "))
 print(lista[habitat])
 print('''
